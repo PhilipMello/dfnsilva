@@ -29,7 +29,7 @@
 
 ### <p align="center">Diogo Silva, DevOps Engineer</p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer;Full-Stack%20Developer;Prometehus%20Administrator;Grafana;Git%20Rookie;Docker%20Rookie;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer;Full-Stack%20Developer;Prometheus%20Administrator;Grafana;Git%20Rookie;Docker%20Rookie;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
 </p>
 
 ---
